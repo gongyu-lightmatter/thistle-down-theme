@@ -1,0 +1,22 @@
+{
+  "publisher": "YourName",
+  "name": "thistle-down-theme",
+  "displayName": "thistle-down-theme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "thistle-down-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/thistle-down-theme-color-theme.json"
+      }
+    ]
+  }
+}
