@@ -1148,7 +1148,7 @@
 		{
 			"scope": "keyword.operator",
 			"settings": {
-				"foreground": "#D4D4D4"
+				"foreground": "#414a4c" // Outer space: https://encycolorpedia.com/414a4c
 			}
 		},
 		{
