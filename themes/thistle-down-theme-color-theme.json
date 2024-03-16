@@ -1083,7 +1083,7 @@
 				"meta.embedded.assembly"
 			],
 			"settings": {
-				"foreground": "#CE9178"
+				"foreground": "#18f687"
 			}
 		},
 		{
@@ -1259,7 +1259,7 @@
 				"storage.type.primitive.groovy"
 			],
 			"settings": {
-				"foreground": "#4EC9B0"
+				"foreground": "#ae0af46f"
 			}
 		},
 		{
@@ -1272,7 +1272,7 @@
 				"entity.other.inherited-class"
 			],
 			"settings": {
-				"foreground": "#4EC9B0"
+				"foreground": "#eb0fdc"
 			}
 		},
 		{
